@@ -7,7 +7,7 @@ My solutions to [Advent of Code 2022](https://adventofcode.com/2022). Be warned,
 - [Day 02](https://github.com/Kersplash99/Code_Vent_Cal_22/blob/main/src/bin/day_02.rs)
 - [Day 03](https://github.com/Kersplash99/Code_Vent_Cal_22/blob/main/src/bin/day_03.rs)
 - [Day 04](https://github.com/Kersplash99/Code_Vent_Cal_22/blob/main/src/bin/day_04.rs)
-
+- [Day 05](https://github.com/Kersplash99/Code_Vent_Cal_22/blob/main/src/bin/day_05.rs)
 
 
 ## How to run:

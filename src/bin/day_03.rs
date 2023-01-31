@@ -73,7 +73,7 @@ fn main() {
         }
 
         // add in the priority of the badges
-        for item in items {
+        for item in common_items {
             priority += calc_priority(item as u32);
         }
     }
